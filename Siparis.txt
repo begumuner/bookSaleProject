@@ -1,0 +1,6 @@
+
+Ad = BEGUM
+Soyad = UNER
+Email = BEGUMUNER@HOTMAIL.COM
+Adres= ISTANBUL
+Alinan kitap= 1984

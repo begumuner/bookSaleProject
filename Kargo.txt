@@ -1,0 +1,4 @@
+---->Kargo Bilgileri<----
+1)Kargo firmasi=Y Kargo 
+2)Kargo ulasim zamani=3 is gunu icerisinde
+3)Kargo no=59457479 dir

@@ -1,0 +1,16 @@
+---->KITAP LISTESI<----
+1)Kurk Mantolu Madonna -->Sabahattin Ali 
+2)Kucuk Prens --> Antoine De Saint-Exupéry
+3)Tutunamayanlar --> Oguz Atay
+4)kirmizi Sacli Kadin -->Orhan Pamuk
+5)Bir Genc Kizin Gizli Defteri -->Ipek Ongun
+6)Donusum --> Franz Kafka
+7)Uçurtma Avcısı --> Khaled Hosseini
+8)Simyacı --> Paulo Coelho
+9)Satranç --> Stefan Zweig
+10)Şeker Portakalı --> José Mauro De Vasconcelos
+11)Suç ve Ceza --> Dostoyevski
+12)Olasılıksız --> Adam Fawer
+13)Fareler ve İnsanlar --> John Steinbeck
+
+14)KUYUCAKLI YUSUF---> SABAHATTIN ALI
