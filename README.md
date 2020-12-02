@@ -1,1 +1,3 @@
-# Book Sale
+Java project
+
+# BookSaleProject
